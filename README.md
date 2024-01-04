@@ -9,7 +9,7 @@
   <a href="#">
     <img src="https://img.shields.io/badge/Portfolio-563D7C?style=for-the-badge&logo=website&logoColor=white" alt="portfolio Badge"/>
   </a>
-  <a href="C:\Users\vinay\OneDrive\Vinay Kumar-168-Frontend Developer.pdf">
+  <a href="#">
     <img src="https://img.shields.io/badge/Resume-blue?style=for-the-badge&logo=resume&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
