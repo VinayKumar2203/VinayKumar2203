@@ -9,7 +9,7 @@
   <a href="#">
     <img src="https://img.shields.io/badge/Portfolio-563D7C?style=for-the-badge&logo=website&logoColor=white" alt="portfolio Badge"/>
   </a>
-  <a href="#">
+  <a href="file:///C:/Users/vinay/Downloads/Vinay%20Kumar-168-Frontend%20Developer.pdf">
     <img src="https://img.shields.io/badge/Resume-blue?style=for-the-badge&logo=resume&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
@@ -94,7 +94,6 @@ Tools:
   <div>
  <a
 href="#">
-    <img src="https://img.shields.io/badge/Facebook.com-white?style=for-the-badge&logo=NA&logoColor=black" alt="FB Badge"/>
   </a> </div>
   <div>  
   <p></p>
