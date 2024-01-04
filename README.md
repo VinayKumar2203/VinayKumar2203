@@ -25,7 +25,7 @@
 ### :woman_technologist: About Me :
 
 ### Hi there 👋
-* 👂 My name is *Amzad Hussain*,
+* 👂 My name is *Vinay Kumar*,
 * 🌱 I’m currently learning Full Stack Software Development from Masai School,
 * 🤝 Collaborating on projects with other developers,
 * 💬 Ask me about software development,
