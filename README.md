@@ -72,21 +72,19 @@ Tools:
  <ul>
  <li>English: Read, Write and Speak: Native,</li>
  <li>Hindi: Read, Write and Speak: Native,</li>
- <li>Urdu : Read and Write,</li>
- <li>Bhojpuri: Read, Write and Speak: Native.</li>
  </ul>
 </div>
 <hr />
 
 ### :fire: My Stats : 
-[![GitHub Streak](https://streak-stats.demolab.com?user=AmzadT&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=VinayKumar2203&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
                                                                                                                    <br />
-<img src="https://github-readme-stats.vercel.app/api?username=AmzadT&show_icons=true&theme=ADD_THEME_HERE" width="400">
+<img src="https://github-readme-stats.vercel.app/api?username=VinayKumar2203&show_icons=true&theme=ADD_THEME_HERE" width="400">
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmzadT&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AmzadT" alt="AmzadT" /></a> </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VinayKumar2203&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=VinayKumar2203" alt="VinayKumar2203" /></a> </p>
 <hr />
 
 ### :fire: Checkout Some of My Good Projects : 
