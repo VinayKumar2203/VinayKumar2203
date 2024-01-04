@@ -17,7 +17,7 @@
 <h1 align="center">
   Hello
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  I'm Amzad hussain                                                                                   
+  I'm Vinay Kumar                                                                                  
 </h1><h2 align="center">Full stack software developer
 
 </h2>                                                                                 
