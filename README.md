@@ -26,9 +26,9 @@
 
 ### Hi there 👋
 * 👂 My name is *Vinay Kumar*,
-* 🌱 I’m currently learning Full Stack Software Development from Masai School,
+* 🌱 I’m currently learning Full Stack web Development from Masai School,
 * 🤝 Collaborating on projects with other developers,
-* 💬 Ask me about software development,
+* 💬 Ask me about web development,
 * 📫 Get more about me:  <a href="#" target="_blank"> here</a> is my portfolio,
 * ❤ I love coding,
 * ⚡ Fun fact: Still finding...
