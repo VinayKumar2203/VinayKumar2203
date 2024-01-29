@@ -9,6 +9,9 @@
   <a href="https://vinaykumar2203.github.io/portfolio_super/">
     <img src="https://img.shields.io/badge/Portfolio-563D7C?style=for-the-badge&logo=website&logoColor=white" alt="portfolio Badge"/>
   </a>
+  <a href="https://twitter.com/VinayKumar2203">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
   <a href="#">
     <img src="https://img.shields.io/badge/Resume-blue?style=for-the-badge&logo=resume&logoColor=white" alt="Twitter Badge"/>
   </a>
