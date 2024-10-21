@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/vinay-kumar-820301288/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://vinaykumar2203.github.io/portfolio_super/">
+  <a href="https://vinaykumar2203.github.io/portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-563D7C?style=for-the-badge&logo=website&logoColor=white" alt="portfolio Badge"/>
   </a>
   <a href="https://twitter.com/VinayKumar2203">
